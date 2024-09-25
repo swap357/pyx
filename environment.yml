@@ -1,0 +1,16 @@
+name: pyx
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - numpy
+  - matplotlib
+  - pyqt
+  - pyopengl
+  - noise
+  - pip
+  - pip:
+    - PyQt5
+    - PyOpenGL
+    - PyOpenGL_accelerate
+    - PyQt5-sip

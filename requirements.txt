@@ -1,0 +1,7 @@
+numpy
+matplotlib
+PyQt5
+PyOpenGL
+PyOpenGL_accelerate
+noise
+PyQt5-sip
