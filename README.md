@@ -11,4 +11,10 @@ cd pyx
 pip install -r requirements.txt
 ```
 
+
+```bash
+# fabric sim
+python .\gen-art\fabric_v1\fabric.py
+```
+
 thank you for checking out!
