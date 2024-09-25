@@ -47,7 +47,7 @@ pip install -r requirements.txt
 
 - Run the program
 ```python
-python gen-art/fabric_v1/fabric.py
+python gen-art/fabric/fabric.py
 ```
 
 Remember, every time you change something, you're being an artist and a scientist at the same time. How cool is that?

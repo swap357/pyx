@@ -11,10 +11,9 @@ cd pyx
 pip install -r requirements.txt
 ```
 
+- [fabric](./gen-art/fabric/fabric-doc.md)
+- [fluid flow](./gen-art/fluid_flow/fluid_flow-doc.md)
+- [voronoi](./gen-art/voronoi/voronoi-doc.md)
 
-```bash
-# fabric sim
-python .\gen-art\fabric_v1\fabric.py
-```
 
 thank you for checking out!

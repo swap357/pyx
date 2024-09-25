@@ -14,3 +14,4 @@ dependencies:
     - PyOpenGL
     - PyOpenGL_accelerate
     - PyQt5-sip
+    - scipy

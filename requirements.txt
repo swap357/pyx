@@ -5,3 +5,4 @@ PyOpenGL
 PyOpenGL_accelerate
 noise
 PyQt5-sip
+scipy
